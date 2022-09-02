@@ -287,6 +287,10 @@ nav a:focus {
 .article-recent-secondary {
     order: 1;
 }
+.fa-whatsapp:hover{
+   color:white;
+   cursor: pointer; 
+}
 
 @media (min-width: 675px) {
     .article-recent {
